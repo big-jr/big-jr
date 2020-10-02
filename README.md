@@ -35,6 +35,7 @@ The main languages I've used recently are:
 
 - Python
 - C#
+- ASP.NET
 - C++
 
 I've used these on:
@@ -50,6 +51,7 @@ And used these databases:
 
 I've also recently used:
 
+- JavaScript
 - AWS Lambda
 - AWS API Gateway
 - Various other AWS features!
