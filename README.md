@@ -29,9 +29,9 @@ I use Continuous Integration and Deployment to automate every part of the proces
 
 ## Technologies I've Used
 
-I started my career as an Electronic Engineer (I'm a [Chartered Engineer](https://www.engc.org.uk/ceng)) and I used to design PCBs, FPGAs and video hardware, but I now design and write software.
+I started my career as an Electronic Engineer (I'm a [Chartered Engineer](https://www.engc.org.uk/ceng)) and I used to design PCBs, FPGAs and video hardware, but I quickly changed to designing and writing software.
 
-I've used a LOT of technology in my career, depending on the problems I'm trying to solve because [languages are just tools](https://www.softwarepragmatism.com/programming-languages-they-re-just-a-bunch-of-tools).
+I've used a LOT of different technologies in my career, depending on the problems I'm trying to solve because [languages are just tools](https://www.softwarepragmatism.com/programming-languages-they-re-just-a-bunch-of-tools).
 
 The main languages I've used most recently are:
 
@@ -51,6 +51,8 @@ And used these databases:
 
 - MS SQL Server
 - PostgreSQL
+- Oracle
+- Vertica
 
 I've also recently used:
 
