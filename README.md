@@ -68,4 +68,4 @@ I've also recently used:
 
 My professional web site is [Software Pragmatism](https://www.softwarepragmatism.com/). I write about technologies I've learned about and used, and about software development processes in general.
 
-I'm also on [Twitter](https://twitter.com/SoftwarePragmat)
+![Twitter Follow](https://img.shields.io/twitter/follow/SoftwarePragmat?label=Follow%20Me%20On%20Twitter&style=social)
