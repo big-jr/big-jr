@@ -60,7 +60,9 @@ I've also recently used:
 - AWS API Gateway
 - Various other AWS features!
 - Terraform
+- Django
 - Docker
+- Kubernetes
 - bash
 - JavaScript
 
