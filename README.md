@@ -66,8 +66,11 @@ I've also recently used:
 - bash
 - JavaScript
 
-## Where Can I Find Out More About You?
+## How I Can Help You
 
 My professional web site is [Software Pragmatism](https://www.softwarepragmatism.com/). I write about technologies I've learned about and used, and about software development processes in general.
 
+📫 If you're in Canada, feel free to contact me via [my contact form](https://www.softwarepragmatism.com/contact-jason).
+
 ![Twitter Follow](https://img.shields.io/twitter/follow/SoftwarePragmat?label=Follow%20Me%20On%20Twitter&style=social)
+
