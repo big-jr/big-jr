@@ -80,3 +80,7 @@ Some of the sites that link to me:
 
 - [Marko Denic's Awesome Tech Blogs](https://tech-blogs.dev/)
 - [Wes Bos' /uses Page](https://uses.tech/)
+
+Other sites:
+
+- Shields provided by [shields.io](https://shields.io/)
