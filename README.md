@@ -78,5 +78,5 @@ My professional web site is [Software Pragmatism](https://www.softwarepragmatism
 
 Some of the sites that link to me:
 
-[Marko Denic's Awesome Tech Blogs](https://tech-blogs.dev/)
-[Wes Bos' /uses Page](https://uses.tech/)
+- [Marko Denic's Awesome Tech Blogs](https://tech-blogs.dev/)
+- [Wes Bos' /uses Page](https://uses.tech/)
