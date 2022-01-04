@@ -74,3 +74,9 @@ My professional web site is [Software Pragmatism](https://www.softwarepragmatism
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/SoftwarePragmat?label=Follow%20Me%20On%20Twitter&style=social)
 
+## A Couple Of Useful Links
+
+Some of the sites that link to me:
+
+[Marko Denic's Awesome Tech Blogs](https://tech-blogs.dev/)
+[Wes Bos' /uses Page](https://uses.tech/)
