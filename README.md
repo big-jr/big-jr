@@ -21,11 +21,11 @@ I'm a software architect and full-stack developer based in Calgary, Alberta, Can
 
 ## What I Do
 
-I design and build software systems. The sort of systems that don't crash when they receive incorrect data, that don't need to be rebooted constantly and that don't run so slowly that the users think they've crashed. Systems that take data from any source - databases, files, networks, APIs - process it as quickly, efficiently and reliably as possible and output the results in whatever form the customer requires.
+I design and build software systems. Systems that don't crash when they receive incorrect data, that don't need to be rebooted constantly and that don't run so slowly that the users think they've crashed. Systems that take data from any source - databases, files, networks, APIs - process it as quickly, efficiently and reliably as possible and output the results in whatever form the customer requires.
 
-I've designed and written systems for banks, finance companies, energy companies, insurance syndicates, security companies and many others.
+I've designed and written systems for banks, finance companies, energy companies, railways, insurance syndicates, security companies and many others.
 
-I use Continuous Integration and Deployment to automate every part of the process from building to unit testing to deployment and integration testing.
+I use Continuous Integration and Deployment to automate every part of the process from building to unit testing to deployment and integration testing. I usually try to automate everything I can - it makes things faster, and it removes errors.
 
 ## Technologies I've Used
 
@@ -67,6 +67,8 @@ I've also recently used:
 - JavaScript
 
 ## How I Can Help You
+
+I'm an experienced Software Developer who can improve your software design and processes, reduce your AWS cloud bill and make sure your software does what it's supposed to.
 
 My professional web site is [Software Pragmatism](https://www.softwarepragmatism.com/). I write about technologies I've learned about and used, and about software development processes in general.
 
