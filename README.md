@@ -66,6 +66,10 @@ I've also recently used:
 - bash
 - JavaScript
 
+## Public Domain Software I've Written
+
+My latest open source project is [Randalyze](https://pypi.org/project/randalyze/), a Python package that generates and analyzes random numbers that match those encountered in real life. The numbers are distributed according to Benford's Law; for more details, there's an article on my blog: [Are those numbers realistic or fake? Try using Benford's Law](https://www.softwarepragmatism.com/benfords-law)
+
 ## How I Can Help You
 
 I'm an experienced Software Developer who can improve your software design and processes, reduce your AWS cloud bill and make sure your software does what it's supposed to.
