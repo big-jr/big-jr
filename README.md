@@ -73,6 +73,7 @@ My latest open source project is [Randalyze](https://pypi.org/project/randalyze/
 The most recent download statistics for [Randalyze](https://pypi.org/project/randalyze/) are:
 
 [![Downloads](https://pepy.tech/badge/randalyze)](https://pepy.tech/project/randalyze)
+
 [![Downloads](https://pepy.tech/badge/randalyze/week)](https://pepy.tech/project/randalyze)
 
 ## How I Can Help You
@@ -95,4 +96,4 @@ Some of the sites that link to me:
 Other sites:
 
 - Shields provided by [shields.io](https://shields.io/)
-- Project Euler - a mathematics puzzle site [![Project Euler](https://projecteuler.net/profile/JasonR.png)](https://projecteuler.net)
+- Project Euler - mathematics puzzles: [![Project Euler](https://projecteuler.net/profile/JasonR.png)](https://projecteuler.net)
