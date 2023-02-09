@@ -84,8 +84,6 @@ My professional web site is [Software Pragmatism](https://www.softwarepragmatism
 
 📫 If you're in Canada, feel free to contact me via [my contact form](https://www.softwarepragmatism.com/contact-jason).
 
-![Twitter Follow](https://img.shields.io/twitter/follow/SoftwarePragmat?label=Follow%20Me%20On%20Twitter&style=social)
-
 ## A Couple Of Useful Links
 
 Some of the sites that link to me:
