@@ -72,6 +72,12 @@ I've also recently used:
 
 My main open source project is [Randalyze](https://pypi.org/project/randalyze/), a Python package that generates and analyzes random numbers that match those encountered in real life. The numbers are distributed according to Benford's Law; for more details, there's an article on my blog: [Are those numbers realistic or fake? Try using Benford's Law](https://www.softwarepragmatism.com/benfords-law)
 
+#### Source Code
+
+[Randalyze Source Code](https://gitlab.com/big-jr/randalyze)
+
+#### Statistics
+
 The most recent download statistics for [Randalyze](https://pypi.org/project/randalyze/) are:
 
 [![Downloads](https://pepy.tech/badge/randalyze)](https://pepy.tech/project/randalyze)
@@ -82,11 +88,31 @@ The most recent download statistics for [Randalyze](https://pypi.org/project/ran
 
 My newest open source project is [primegenerators](https://pypi.org/project/primegenerators/), a Python package that generates prime numbers, checks whether given numbers are prime, and factorizes them.
 
+#### Statistics
+
 The most recent download statistics for [primegenerators](https://pypi.org/project/primegenerators/) are:
 
 [![Downloads](https://pepy.tech/badge/primegenerators)](https://pepy.tech/project/primegenerators)
 
 [![Downloads](https://pepy.tech/badge/primegenerators/week)](https://pepy.tech/project/primegenerators)
+
+### Witter
+
+[Witter](https://pypi.org/project/witter/) lets you generate pseudo-random text in the style of an original file you provide. For example, if you want to generate text in the style of Shakespeare's sonnets, War and Peace, or any (preferably big) text document you have, it will come up with gems like:
+
+```text
+What acceptable audit canst thou O cruel, say I love thee with mine, compare thee to a summer's story tell Or from their physicians know. For if I should despair I should grow mad, And in mine own love's might O let my looks be then the eloquence, And dumb presagers of my silence cannot boast, I was not sick of any fear from thence.
+```
+
+Nobody said it was going to make sense! What it DOES do though, is to demonstrate text parsing, stochastic methods, and some statistics.
+
+#### Statistics
+
+The most recent download statistics for [witter](https://pypi.org/project/witter/) are:
+
+[![Downloads](https://pepy.tech/badge/witter)](https://pepy.tech/project/witter)
+
+[![Downloads](https://pepy.tech/badge/witter/week)](https://pepy.tech/project/witter)
 
 ## How I Can Help You
 
