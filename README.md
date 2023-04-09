@@ -68,13 +68,25 @@ I've also recently used:
 
 ## Public Domain Software I've Written
 
-My latest open source project is [Randalyze](https://pypi.org/project/randalyze/), a Python package that generates and analyzes random numbers that match those encountered in real life. The numbers are distributed according to Benford's Law; for more details, there's an article on my blog: [Are those numbers realistic or fake? Try using Benford's Law](https://www.softwarepragmatism.com/benfords-law)
+### Randalyze
+
+My main open source project is [Randalyze](https://pypi.org/project/randalyze/), a Python package that generates and analyzes random numbers that match those encountered in real life. The numbers are distributed according to Benford's Law; for more details, there's an article on my blog: [Are those numbers realistic or fake? Try using Benford's Law](https://www.softwarepragmatism.com/benfords-law)
 
 The most recent download statistics for [Randalyze](https://pypi.org/project/randalyze/) are:
 
 [![Downloads](https://pepy.tech/badge/randalyze)](https://pepy.tech/project/randalyze)
 
 [![Downloads](https://pepy.tech/badge/randalyze/week)](https://pepy.tech/project/randalyze)
+
+### PrimeGenerators
+
+My newest open source project is [primegenerators](https://pypi.org/project/primegenerators/), a Python package that generates prime numbers, checks whether given numbers are prime, and factorizes them.
+
+The most recent download statistics for [primegenerators](https://pypi.org/project/primegenerators/) are:
+
+[![Downloads](https://pepy.tech/badge/primegenerators)](https://pepy.tech/project/primegenerators)
+
+[![Downloads](https://pepy.tech/badge/primegenerators/week)](https://pepy.tech/project/primegenerators)
 
 ## How I Can Help You
 
