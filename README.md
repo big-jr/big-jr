@@ -72,6 +72,11 @@ I've also recently used:
 
 My main open source project is [Randalyze](https://pypi.org/project/randalyze/), a Python package that generates and analyzes random numbers that match those encountered in real life. The numbers are distributed according to Benford's Law; for more details, there's an article on my blog: [Are those numbers realistic or fake? Try using Benford's Law](https://www.softwarepragmatism.com/benfords-law)
 
+#### Links to [The Original Article](https://www.softwarepragmatism.com/benfords-law)
+
+[PyCoder's Weekly - Issue 568](https://pycoders.com/issues/568)
+[The Real Python Podcast - Episode 151](https://realpython.com/podcasts/rpp/151/) - also available on [Player FM](https://player.fm/series/the-real-python-podcast/evaluating-python-packages-celebrating-20-years-of-pycon-us)
+
 #### Source Code
 
 [Randalyze Source Code](https://gitlab.com/big-jr/randalyze)
