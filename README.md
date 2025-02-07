@@ -66,7 +66,7 @@ I've also recently used:
 - bash
 - JavaScript
 
-## Public Domain Software I've Written
+## Open Source Software I've Written
 
 ### Randalyze
 
